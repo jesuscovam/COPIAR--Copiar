@@ -12,5 +12,3 @@ def uno(variable):
     dos = ' '.join(lista2)
     pyperclip.copy(dos)
 
-    
-uno('HOLA COMO ESTAS')
