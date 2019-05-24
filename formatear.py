@@ -1,6 +1,6 @@
 import pyperclip
 
-def uno(variable):
+def formatear(variable):
     producto = variable
     producto = producto.lower()
     lista = producto.split(" ")
