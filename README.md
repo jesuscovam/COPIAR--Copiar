@@ -1,6 +1,8 @@
-# COPIAR--Copiar
+# Herramientas para Trabajo
 
-Programa en python para copiar nombres textos como "JESUS ALEJANDRO COVA" y retornar "Jesus Alejandro Cova"
+# Formatear
+Convierte una string "XXX XXX XXX" en "Xxx Xxx Xxx"
 
 # Requisitos
-pip install pyperclip
+python => pip install pyperclip
+javascript => npm i colors clipboardy
