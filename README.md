@@ -1,7 +1,7 @@
 # Herramientas para Trabajo
 
 # Formatear
-Convierte una string "XXX XXX XXX" en "Xxx Xxx Xxx" y la copia al portapapeles.
+Convierte una string "NAVAJA SUIZA" en "Navaja Suiza" y la copia al portapapeles.
 
 
 # Uso
